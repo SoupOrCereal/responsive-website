@@ -1,3 +1,3 @@
-A responsive website coded from a PSD (Photoshop) design.
+A responsive website created from a Photoshop design.
 
 Demo :: https://souporcereal.github.io/responsive-website/
